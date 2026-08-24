@@ -5,6 +5,12 @@ rgs = {
         env = "Dev"
         mb = "terraform"
     }
+     rg2 = {
+        name = "yoapp-dev-rg"
+        location = "westus"
+        env = "Dev"
+        mb = "terraform"
+    }
 }
 
 vnets = {
